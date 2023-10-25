@@ -1,0 +1,9 @@
+{
+    "Name": "Ice cream",
+    "Flavours": [
+        "Chocolate",
+        "Pineapple"
+    ],
+    "Toppings": true,
+    "WaffleCone": "Yes"
+}
